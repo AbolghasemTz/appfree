@@ -8,7 +8,7 @@ import { LuLogIn } from "react-icons/lu";
 import FREELANCER_PIC from "../../public/images/free.webp"
 function Home() {
   const { isLoading, user } = useUser();
-git a  return (
+ return (
     <div className="h-screen bg-secondary-0">
       <div className="bg-secondary-0 py-4 px-8 border-b border-secondary-200">
         <div
